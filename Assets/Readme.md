@@ -1,1 +1,1 @@
-#Assets for Xyric
+# Assets for Xyric
